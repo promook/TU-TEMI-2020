@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+9f3aac10db543ddec3a6abc39f661c1df782dcb4 refs/remotes/origin/map
+f29c12dc03a56543f5dda82a977706c75595ccb7 refs/remotes/origin/map2
+14bf9241b5f97429dacb70c40ccde5daed157b21 refs/remotes/origin/mapMerge
+0b6beaf84e71b784eec962624dbf05afba35b5e3 refs/remotes/origin/master
+b08aa6954f8d981048812c2218fe442ff1d565c8 refs/tags/v0.10.63
+a77c87c8fd37698b2923c33ae4171662b0cd2c61 refs/tags/v0.10.65
+13745bb69e10ce23a48eefa73eb93685cc2f02d4 refs/tags/v0.10.70
+5490907aba64b18b9958b9257172d9374c8a21f2 refs/tags/v0.10.71
+f9b90e26884a905e9b5005d7bbaafc6cc5d8d7ee refs/tags/v0.10.73
+aaa2062fffacf4924004d5b9265c4087e4268848 refs/tags/v0.10.74
+c811561b056965fdd0ff7914a61767bcf9ea668b refs/tags/v0.10.75
+9e0501aec005a7b95527525b381c43bfd2bd0f8e refs/tags/v0.10.76
